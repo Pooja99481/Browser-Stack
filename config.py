@@ -12,14 +12,16 @@ browsers = [
         'browser_version': 'latest',
     },
     {
-        'device': 'iPhone 14',
+        'device': 'Google Pixel 7',
         'real_mobile': 'true',
-        'os_version': '16',
+        'os_version': '13.0',
+        'browserName': 'Chrome'
     },
     {
         'device': 'Samsung Galaxy S22',
         'real_mobile': 'true',
         'os_version': '12.0',
+        'browserName': 'Chrome'
     },
     {
         'os': 'Windows',
